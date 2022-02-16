@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-240-race-and-science-spring-2004/32e157b364dac3fbd0e6e8f65b620ae6_lecnotes_04_01.pdf
+file: /media/courses/21a-240-race-and-science-spring-2004/32e157b364dac3fbd0e6e8f65b620ae6_lecnotes_04_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecnotes_04_01.pdf
 uid: 32e157b3-64da-c3fb-d0e6-e8f65b620ae6
