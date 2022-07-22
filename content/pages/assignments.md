@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides details on the three essay assignments for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 07236c75-bf64-b242-0c65-9fd1032602b6
 ---
 
-Essay 1  ([PDF]({{< baseurl >}}/resources/topicspaperone))
+Essay 1  ({{% resource_link 6aa9139e-e698-2a88-ff02-71ad87b154c6 "PDF" %}})
 ----------------------------------------------------------
 
 1. Compare and contrast the place of sex, gender, and reproduction in the ideas of two eugenic thinkers discussed by Kevles. Integrate a brief discussion of sex and gender in Darwin.
@@ -15,7 +20,7 @@ Essay 1  ([PDF]({{< baseurl >}}/resources/topicspaperone))
 
 4. Use Bowker and Star's ideas about Aristotelian and prototypical classification to examine how scientific and legal ideas about race interact in debates about immigration and naturalization in the United States as discussed by Jacobson.
 
-Essay 2  ([PDF]({{< baseurl >}}/resources/topicspapertwo))
+Essay 2  ({{% resource_link 382644d7-60ba-54ce-6540-7a600665e5bc "PDF" %}})
 ----------------------------------------------------------
 
 1. Read Donna Haraway's "Universal Donors in a Vampire Culture." Use her section "III: Genome," to discuss and contextualize the cases discussed in Troy Duster's and Michael Montoya's articles.
@@ -32,7 +37,7 @@ Conclude with reflections on Troy Duster's arguments about new medical uses of "
 
 4. Drawing on the writings of Londa Schiebinger and Terry Kapsalis, historicize Donna Haraway's discussion in "Apes in Eden, Apes in Space: Mothering as a Scientist for National Geographic" on the role of "whiteness" in fashioning scientific portraits of non-human primates like apes.
 
-Essay 3  ([PDF]({{< baseurl >}}/resources/topicspaperthree))
+Essay 3  ({{% resource_link cbea2360-09b2-ddbe-6965-8ec898847356 "PDF" %}})
 ------------------------------------------------------------
 
 1. Puzzle through the "racial economy" of nuclear weapons work and testing using both    
