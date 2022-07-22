@@ -5,6 +5,7 @@ file: /courses/21a-240-race-and-science-spring-2004/a38a1b194890ef06fa4f5e400eea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

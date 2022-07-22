@@ -5,6 +5,7 @@ file: /courses/21a-240-race-and-science-spring-2004/6aa9139ee6982a88ff0271ad87b1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
