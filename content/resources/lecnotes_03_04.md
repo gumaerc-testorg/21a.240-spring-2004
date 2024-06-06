@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-240-race-and-science-spring-2004/91744082723aaf1586db0f97c6bf4f29_lecnotes_03_04.pdf
+file_size: 40254
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
