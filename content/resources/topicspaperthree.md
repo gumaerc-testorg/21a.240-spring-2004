@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-240-race-and-science-spring-2004/cbea236009b2ddbe69658ec898847356_topicspaperthree.pdf
+file: /ol-ocw-studio-app/courses/21a-240-race-and-science-spring-2004/cbea236009b2ddbe69658ec898847356_topicspaperthree.pdf
 file_size: 12948
 file_type: application/pdf
 learning_resource_types:
