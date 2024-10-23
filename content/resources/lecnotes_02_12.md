@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-240-race-and-science-spring-2004/a092c79c73174bb6e0bbe578f168bf15_lecnotes_02_12.pdf
+file: /ol-ocw-studio-app/courses/21a-240-race-and-science-spring-2004/a092c79c73174bb6e0bbe578f168bf15_lecnotes_02_12.pdf
 file_size: 55143
 file_type: application/pdf
 learning_resource_types:
